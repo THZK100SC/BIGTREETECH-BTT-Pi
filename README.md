@@ -16,6 +16,10 @@ Please refer to [here](https://github.com/So6Rallye/BTT-Pi/blob/master/BIGTREETE
 
 ## BigTreeTech BTT Pi v1.2 Specifications
 
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
+
 | **CPU**          	|   Allwinner H616 64-bit quad-core Arm Cortex-A53 @ 1.5 GHz           	|
 | **GPU**			|	Arm Mali G31 MP2 with support for OpenGL ES 3.2						|
 | **XXX**			|	XXX																	|
